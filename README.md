@@ -18,4 +18,4 @@ samples, guidance on mobile development, and a full API reference.
 
 ##How To run
 - First import database and place a php file in htdocs
-- Second you must change variable ip in globals.dart make sure it matches your ip address
+- Second you must change variable ip make sure it matches your ip address
